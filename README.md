@@ -63,7 +63,7 @@ Nov-15-2018: worked on documentation and refining the code
 
 Nov-19-2018: Group met to discuss incorporating google cloud services
 
-Nov-24-2018: Helped with incorporating google cloud as our database
+Nov-24-2018: Helped with incorporating firebase as our database
 
 Nov-30-2018: Finished compiling group report
 
